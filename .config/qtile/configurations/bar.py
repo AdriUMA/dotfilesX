@@ -164,10 +164,11 @@ screens = [
                     background=group1bg,
                 ),
             ],
-            28,
+            25,
             opacity=0.85,
         ),
     ),
+
     Screen(
         top=bar.Bar(
             [

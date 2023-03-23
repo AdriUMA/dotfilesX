@@ -51,7 +51,7 @@ picom -b
 setxkbmap es &disown
 
 # Wallpapaer
-feh --bg-scale .config/Wallpapers/wallpaper.jpg &disown
+feh --bg-scale .config/Wallpapers/wallpaper.png &disown
 
 
 
